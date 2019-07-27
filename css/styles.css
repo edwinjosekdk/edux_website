@@ -31,6 +31,36 @@ body {
     transition: .3s ease;
 }
 
+.mob-top-nav {
+    background-color: #313131;
+}
+
+.mob-toggle i {
+    color: #fff;
+    font-size: 20px;
+}
+
+.mob-caption {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.mob-nav-login i {
+    font-size: 11px;
+}
+
+.mob-nav-login {
+    color: #fff;
+    font-size: 12px;
+}
+
+.middler {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
 
 /* sidebar */
 
